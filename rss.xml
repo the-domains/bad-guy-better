@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bad Guy Better]]></title>
         <description><![CDATA[Bad Guy Better]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bad-guy-better/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 23:38:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 23:42:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bad-guy-better/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soon, I Will Be Unstoppable!]]></title>
             <description><![CDATA[<h1>Soon, I Will Be Unstoppable!</h1>]]></description>
-            <link>undefinedsoon-i-will-be-unstoppable/index.html</link>
+            <link>https://thegrid.ai/bad-guy-better/soon-i-will-be-unstoppable/index.html</link>
             <guid isPermaLink="false">df161064-9699-4f18-8ff2-b9d0258cd9dd</guid>
-            <pubDate>Tue, 29 Mar 2016 23:37:36 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 23:42:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
