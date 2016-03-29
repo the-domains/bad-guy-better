@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bad Guy Better]]></title>
+        <description><![CDATA[Bad Guy Better]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 23:38:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Soon, I Will Be Unstoppable!]]></title>
+            <description><![CDATA[<h1>Soon, I Will Be Unstoppable!</h1>]]></description>
+            <link>undefinedsoon-i-will-be-unstoppable/index.html</link>
+            <guid isPermaLink="false">df161064-9699-4f18-8ff2-b9d0258cd9dd</guid>
+            <pubDate>Tue, 29 Mar 2016 23:37:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
