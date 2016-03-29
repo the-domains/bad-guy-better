@@ -1,7 +1,7 @@
 name: Bad Guy Better
 favicon: null
-layout_spectrum: 0.48980742623098195
-typography_spectrum: 0.44496853626333177
+layout_spectrum: 0.17193
+typography_spectrum: 0.68142
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#090804'
+    - '#f6c489'
+    - '#737b6e'
+    - '#fa4647'
   brandStrength: 0.7914663346018642
-  lightness: 0.11249778466299176
-  saturation: 0.3726529534906149
-  rhythmicContrast: 0.9130887631326914
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
